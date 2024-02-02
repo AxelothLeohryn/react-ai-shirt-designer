@@ -1,28 +1,28 @@
-import { swatch, fileIcon, ai, logoShirt, stylishShirt } from "../assets";
+import { swatch, fileIcon, ai, logoShirt, stylishShirt, chat, color, logo, texture, upload } from "../assets";
 
 export const EditorTabs = [
   {
     name: "colorpicker",
-    icon: swatch,
+    icon: color,
   },
   {
     name: "filepicker",
-    icon: fileIcon,
+    icon: upload,
   },
   {
     name: "aipicker",
-    icon: ai,
+    icon: chat,
   },
 ];
 
 export const FilterTabs = [
   {
     name: "logoShirt",
-    icon: logoShirt,
+    icon: logo,
   },
   {
     name: "stylishShirt",
-    icon: stylishShirt,
+    icon: texture,
   },
 ];
 
