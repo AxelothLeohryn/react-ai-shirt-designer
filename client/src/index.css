@@ -90,3 +90,15 @@ input[type="file"] {
 .sketch-picker > div:nth-child(3) {
   display: none !important;
 }
+
+button, img {
+  transition: all 0.2s ease-in-out;
+}
+button:hover {
+  transform: scale(1.05);
+  transition: all 0.2s ease-in-out;
+}
+img:hover {
+  transform: scale(1.2);
+  transition: all 0.2s ease-in-out;
+}
