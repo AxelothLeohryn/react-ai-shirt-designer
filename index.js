@@ -12,8 +12,8 @@ app.use(express.json({ limig: "50mb" }));
 
 app.use("/api/v1/dalle", dalleRoutes);
 
-app.get("/", (req, res) => {
-  res.status(200).json({ message: "Hello from DALL.E" });
-});
+// app.get("/", (req, res) => {
+//   res.status(200).json({ message: "Hello from DALL.E" });
+// });
 
 app.listen(8080, () => console.log("Server is running on port 8080"));
