@@ -12,8 +12,15 @@ app.use(express.json({ limig: "50mb" }));
 
 app.use("/api/v1/dalle", dalleRoutes);
 
-// app.get("/", (req, res) => {
-//   res.status(200).json({ message: "Hello from DALL.E" });
-// });
+//* Serve static assets in production, must be at this location of this file
+if (process.env.NODE_ENV === "production") {
+  //*Set static folder (VITE --> dist)
+  app.use(express.static("client/dist"));
+
+  app.get("*", (req, res) =>
+    res.sendFile(path.resolve(__dirname, "client", "dist", "index.html"))
+  );
+}
+
 
 app.listen(8080, () => console.log("Server is running on port 8080"));
