@@ -57,7 +57,7 @@ const Customizer = () => {
       setGeneratingImg(true);
       
       // Call our backend to generate an ai image
-      const response = await fetch("https://react-ai-shirt-designer-backend.onrender.com/api/v1/dalle", {
+      const response = await fetch("/api/v1/dalle", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
