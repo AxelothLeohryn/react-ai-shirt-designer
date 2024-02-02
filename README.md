@@ -56,7 +56,7 @@ Experiment with different T-shirt designs. Pick colors, add logos and textures, 
 
 👉 **AI-Generated Textures**: Implement AI-generated textures for enhanced 3D shirt customization.
 
-👉 **Download Options**:Dynamically change the application theme based on the selected color, enhancing user experience.
+👉 **Download Options**: Dynamically change the application theme based on the selected color, enhancing user experience.
 
 👉 **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience
 
@@ -64,7 +64,6 @@ Experiment with different T-shirt designs. Pick colors, add logos and textures, 
 
 👉 **Framer Motion Animation**: Implement framer motion animations for smooth transitions between different 3D models.
 
-and many more, including code architecture and reusability 
 
 
 
