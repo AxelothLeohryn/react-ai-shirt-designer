@@ -1,9 +1,10 @@
-<div align="center">
+<div align="c">
   <br />
     <a href="https://react-ai-shirt-designer.onrender.com/" target="_blank">
       <img src="./docs/images/127shots_so.png" alt="Project Banner">
     </a>
   <br />
+  </div>
 <div align="center">
   <br />
   <div>
