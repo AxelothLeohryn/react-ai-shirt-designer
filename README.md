@@ -77,7 +77,7 @@ Experiment with different T-shirt designs. Pick colors, add logos and textures, 
 ##
 
  - **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience
-![Website Design](/docs/images/305shots_so.png)
+![Website Design](/docs/images/498shots_so.png)
 
  - **Responsive 3D Application**: Ensure the application is responsive, delivering a seamless experience across various devices.
 ![Website Design](/docs/images/711shots_so.png)
