@@ -49,14 +49,14 @@ Experiment with different T-shirt designs. Pick colors, add logos and textures, 
 ![Website Design](/docs/images/751shots_so.png)
 
 
- - **Color Customization**: Apply any color to the 3D shirt/swag for personalized styling.
+ - **Color Customization**: Apply any color to the 3D shirt for personalized styling.
 ![Website Design](/docs/images/43shots_so.png)
 
 ##
 
  - **Logo Upload Functionality**: Enable users to upload any file as a logo, integrating it seamlessly onto the 3D shirt.
 
- - **Texture Image Upload**: Allow users to upload texture images to style the 3D shirt/swag.
+ - **Texture Image Upload**: Allow users to upload texture images to style the 3D shirt.
 ![Website Design](/docs/images/512shots_so.png)
 
 
