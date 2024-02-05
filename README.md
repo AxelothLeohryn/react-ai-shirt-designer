@@ -9,7 +9,7 @@
 
   <h3 align="center">3D T-Shirt Design Tool & AI Generation</h3>
 
-   <div align="center"> <a href="https://react-ai-shirt-designer.onrender.com/"> Web application </a> built with React & Three.js (Frontend) + Node & Express (Backend) along with the OpenAI API. Preview different designs on a 3D rendered T-shirt, upload your own files and images, and get help from generative AI to experiment on new designs! 
+   <div align="center"> <a href="https://react-ai-shirt-designer.onrender.com/"> Web application</a> built with React & Three.js (Frontend) + Node & Express (Backend) along with the OpenAI API. Preview different designs on a 3D rendered T-shirt, upload your own files and images, and get help from generative AI to experiment on new designs! 
     </div>
 </div>
 
@@ -45,25 +45,36 @@ Experiment with different T-shirt designs. Pick colors, add logos and textures, 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **3D Swag Generation**: Generate unique 3D shirts/swag items dynamically
+ - **3D TShirt Design**: Generate unique 3D tshirts designs dynamically
+![Website Design](/docs/images/751shots_so.png)
 
-👉 **Color Customization**: Apply any color to the 3D shirt/swag for personalized styling.
 
-👉 **Logo Upload Functionality**: Enable users to upload any file as a logo, integrating it seamlessly onto the 3D shirt.
+ - **Color Customization**: Apply any color to the 3D shirt/swag for personalized styling.
+![Website Design](/docs/images/43shots_so.png)
 
-👉 **Texture Image Upload**: Allow users to upload texture images to style the 3D shirt/swag.
+##
 
-👉 **AI-Generated Logo Integration**: Utilize AI to generate logos and intelligently apply them to the 3D shirt.
+ - **Logo Upload Functionality**: Enable users to upload any file as a logo, integrating it seamlessly onto the 3D shirt.
 
-👉 **AI-Generated Textures**: Implement AI-generated textures for enhanced 3D shirt customization.
+ - **Texture Image Upload**: Allow users to upload texture images to style the 3D shirt/swag.
+![Website Design](/docs/images/512shots_so.png)
 
-👉 **Download Options**: Dynamically change the application theme based on the selected color, enhancing user experience.
 
-👉 **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience
+##
 
-👉 **Responsive 3D Application**: Ensure the application is responsive, delivering a seamless experience across various devices.
+ - **AI-Generated Logo Integration**: Utilize AI to generate logos and/or textures and intelligently apply them to the 3D shirt.
 
-👉 **Framer Motion Animation**: Implement framer motion animations for smooth transitions between different 3D models.
+ - **AI-Generated Textures**: Implement AI-generated textures for enhanced 3D shirt customization.
+![Website Design](/docs/images/234shots_so.png)
+
+##
+
+ - **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience
+![Website Design](/docs/images/305shots_so.png)
+
+ - **Responsive 3D Application**: Ensure the application is responsive, delivering a seamless experience across various devices.
+![Website Design](/docs/images/711shots_so.png)
+
 
 
 
